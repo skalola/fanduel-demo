@@ -1,0 +1,6 @@
+framework module Pods_FD_iOS_takehome {
+  umbrella header "Pods-FD_iOS_takehome-umbrella.h"
+
+  export *
+  module * { export * }
+}

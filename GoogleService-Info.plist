@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>229833486309-1hkt2n9612qtg3s1n42nsgqb6fcqj4ai.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.229833486309-1hkt2n9612qtg3s1n42nsgqb6fcqj4ai</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAq_Rxp0ZyG49h1Z-FmNAuMXIF6YQUbkao</string>
+	<key>GCM_SENDER_ID</key>
+	<string>229833486309</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fanduel.FD-iOS-takehome</string>
+	<key>PROJECT_ID</key>
+	<string>fanduel-test-27345</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fanduel-test-27345.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:229833486309:ios:4b1dde85e5a919b8</string>
+	<key>DATABASE_URL</key>
+	<string>https://fanduel-test-27345.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+Attached are two screenshots of an app we would like you to build. Also attached is a json file that you will use to populate your app with data. You should try to mirror these screenshots as closely as possible, but don't feel the need to make things pixel perfect. You are free to use either Swift or Objective-C, as well as any third party frameworks of your choosing.
+
+Some notes about functionality: 
+   -Tapping a game should push to the player stats view for that particular game
+   -"Starring" a game should only be possible from the player stats view
+   -More than one game can be "starred" at a time
+
+
+We ask that you take no longer than a week for this assignment. But, if you think you will need more time than this, please let us know. If you find you have the time, feel free to make any additions to this app that you see fit. And if you have any questions, please do not hesitate to reach out for clarification. 
